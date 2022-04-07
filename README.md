@@ -1,7 +1,7 @@
 ## example-gateway-subscriptions
 
 The purpose of this is to show that Apollo Federation can use websockets. Originally, this was based
-on `apollo-federation-tools` but that module is seriously out of date, but thanks to the maintainers for their work thus far. This module uses `apollo-gateway-subscriptions` and this works, current ApolloServer and will be kept up to date with ApolloServer and GraphQL and necessary libraries, currently it's compatible with apollo server ^0.48.x
+on `apollo-federation-tools` but that module is seriously out of date, but thanks to the maintainers for their work thus far. This module uses `apollo-gateway-subscriptions` and this works with current ApolloServer and will be kept up to date with ApolloServer and GraphQL and necessary libraries, currently it's compatible with apollo server ^0.48.x
 
 #### Diagram
 
