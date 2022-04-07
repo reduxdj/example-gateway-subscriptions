@@ -1,0 +1,16 @@
+.vscode
+
+.dockerignore
+docker-compose*
+**/Dockerfile*
+
+**/npm-debug.log*
+**/node_modules/
+
+tsconfig.tsbuildinfo
+
+.git
+.gitingore
+
+LICENSE
+README.md
