@@ -19,7 +19,7 @@ To use:
 docker compose up
 ```
 
-Open two browser windows one to localhost:3000 and one to localhost:3000/post and create new posts in on browser window while
+Open two browser windows one to http://localhost:3000 and one to http://localhost:3000/post and create new posts in one browser window while
 observing in another.
 
 See: `https://github.com/reduxdj/apollo-gateway-subscription` for more info.
