@@ -9,6 +9,7 @@ To use:
 docker compose up
 ```
 
-Open two browser windows one to localhost:3000 and one to localhost:3000/posts and test away
+Open two browser windows one to localhost:3000 and one to localhost:3000/post and test away to see
+messages get updated in real time
 
 See: `https://github.com/reduxdj/apollo-gateway-subscription` for more info.
